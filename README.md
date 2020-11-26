@@ -6,7 +6,7 @@ The most up to date version of the q2-SCNIC repo is [here](https://github.com/lo
 
 # q2-SCNIC
 
-A package for accessing the primary methods of [SCNIC](https://www.github.com/shafferm/SCNIC) via QIIME2.
+A package for accessing the primary methods of [SCNIC](https://www.github.com/lozuponelab/SCNIC) via QIIME2.
 
 # Installation
 
@@ -25,7 +25,7 @@ pip install scnic
 Next to install the plugin:
 
 ```
-pip install git+https://github.com/shafferm/q2-SCNIC.git
+pip install git+https://github.com/lozuponelab/q2-SCNIC.git
 qiime dev refresh-cache
 ```
 

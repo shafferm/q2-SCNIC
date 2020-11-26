@@ -7,11 +7,11 @@ setup(
     cmdclass=versioneer.get_cmdclass(),
     license='BSD-3-Clause',
     packages=find_packages(),
-    author="Michael Shaffer",
-    author_email="michael.shaffer@ucdenver.edu",
+    author="Michael Shaffer, Kumar Thurimella",
+    author_email="CATHERINE.LOZUPONE@cuanschutz.edu",
     description=(
         "QIIME2 plugin for using SCNIC."),
-    url="https://github.com/shafferm/q2-SCNIC",
+    url="https://github.com/lozuponelab/q2-SCNIC",
     package_data={
         'q2_SCNIC': ['citations.bib']
     },

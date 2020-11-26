@@ -16,7 +16,7 @@ citations = Citations.load('citations.bib', package='q2_SCNIC')
 plugin = Plugin(
     name='SCNIC',
     version=q2_SCNIC.__version__,
-    website="https://github.com/shafferm/q2-SCNIC",
+    website="https://github.com/lozuponelab/q2-SCNIC",
     package='q2_SCNIC',
     description=(
         'This QIIME 2 plugin allows for use of the SCNIC methods '
